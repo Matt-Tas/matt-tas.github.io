@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# About me
+# Simple is
 
-As a developer, I'm often focused on being as simple as possible, getting to the core of an idea. This is an attempt to setup my own space to consider different methods of experimenting with UI and simple layout setups. 
+As a developer, I'm often focused on being as simple as possible, reducing ideas down to their core. This is an attempt to setup my own space to consider different methods of experimenting with UI and simple layout setups. 
 
 My plan with this blog is to explore. 
 
