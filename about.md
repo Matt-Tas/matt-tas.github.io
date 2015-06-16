@@ -16,3 +16,5 @@ I am currently a web developer at Walker Designs where I spend my days building 
 ### Contact me
 
 [mercierm@gmail.com](mailto:mercierm@gmail.com)
+
+p.s. I've built this site easily with the steps [listed here](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/). 
