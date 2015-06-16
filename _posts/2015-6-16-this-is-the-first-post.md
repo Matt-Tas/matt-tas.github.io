@@ -1,7 +1,7 @@
-----
-layout:post
+---
+layout: post
 title: Simple setup for easy communication
-----
+---
 
 #Header Level one.
 ##header level two
