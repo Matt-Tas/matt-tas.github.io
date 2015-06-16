@@ -17,4 +17,4 @@ I am currently a web developer at Walker Designs where I spend my days building 
 
 [mercierm@gmail.com](mailto:mercierm@gmail.com)
 
-p.s. I've built this site easily using github(obviosly) and <a target="_blank" href="http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/">this great post</a> from Smashing Magazine. [listed here](). 
+p.s. I've built this site easily using github(obviosly) and <a target="_blank" href="http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/">this great post</a> from Smashing Magazine. 
