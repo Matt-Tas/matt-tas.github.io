@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About me
+
+As a developer, I'm often focused on being as simple as possible, getting to the core of an idea. This is an attempt to setup my own space to consider different methods of experimenting with UI and simple layout setups. 
+
+My plan with this blog is to explore. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I am currently a web developer at Walker Designs where I spend my days building and maintaining a range of websites. 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mercierm@gmail.com](mailto:mercierm@gmail.com)
