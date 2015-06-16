@@ -1,15 +1,8 @@
 ---
 layout: post
-title: Simple setup for easy communication
+title: Search Engine Optimization - The first post
 ---
 
-#Header Level one.
-##header level two
-###header level three
+I partially created this blog as an exercise in building an elemental site with some strong core beliefs. One of them is the -importance of content-.
 
-Header underlined
-=================
-*This is emphasised*
-
-1. Ordered list
-2. Second ordered list
+As google primarily ranks sites based on authority, it follows that this small site out in the infinite space of the internet won't grow at a large clip with only my thoughts to power it. I do intend however to see if there is any organic traffic that finds its way here.
