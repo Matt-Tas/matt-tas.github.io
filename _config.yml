@@ -6,7 +6,7 @@
 name: Mercier Gitblog
 
 # Short bio or description (displayed in the header)
-description: Web Developer in Tasmania
+description: The web + the future
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: 
   instagram:
-  linkedin: https://au.linkedin.com/in/matthewmercier
+  linkedin: matthewmercier
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: matt_tas
