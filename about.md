@@ -12,7 +12,7 @@ My plan with this blog is to explore.
 
 ### More Information
 
-I am currently a web developer at Walker Designs where I spend my days building and maintaining a range of websites. 
+I am currently a web developer at [Walker Designs](http://walkerdesigns.com.au) where I spend my days building and maintaining a range of websites. 
 ### Contact me
 
 [mercierm@gmail.com](mailto:mercierm@gmail.com)
