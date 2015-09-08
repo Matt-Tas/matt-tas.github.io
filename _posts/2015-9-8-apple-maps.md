@@ -8,7 +8,8 @@ Apple allows you to enter your business into its maps application, which is the 
 
 ![Apple mapslogo][Apple-maps]
 
-![alt text is mandatory](http://mapsconnect.apple.com/assets/images/text/title_mapsconnect.png)
+![Apple maps logo]({{site.baseurl}}/images/title_mapsconnect.png)
+
 
 If you haven't put you're website up on here, you could be missing out. It should be easy (although often these things turn out to be more difficult than they should), and you should do it right away at [Apple Maps Connect](https://mapsconnect.apple.com/).
 
