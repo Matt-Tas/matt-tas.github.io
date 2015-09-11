@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: 2015 Analytics Conference
 published: true
 ---
