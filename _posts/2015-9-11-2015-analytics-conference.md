@@ -38,13 +38,13 @@ To get the most out of this deluge of information I plan on getting all of the p
 3. Dive into Google Tag manager
 
 Some other ways I can improve my skillset is to:
-- Apply more focus to my online strategies
-- Improve measurement and reporting of proper metrics
-- Use A/B testing to help push through stagnant sites
+* Apply more focus to my online strategies
+* Improve measurement and reporting of proper metrics
+* Use A/B testing to help push through stagnant sites
 
 Longer term goals are:
-- Improve connection with the Digital Analytics Industry
-- Look at the feasability of personalisation for some clients
-- Sign up for next years conference
+* Improve connection with the Digital Analytics Industry
+* Look at the feasability of personalisation for some clients
+* Sign up for next years conference
 
 That is the basic de-brief for now. I'll most likely re-visit this to tidy it up down the track.
