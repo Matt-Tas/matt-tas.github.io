@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eliminate bad data with extreme prejudice - referral spam
+title: Eliminate bad referral spam with extreme prejudice
 published: true
 ---
 
@@ -26,6 +26,5 @@ Here is how to do it.
 
 4. Limit domain listing to 4 before creating a new (or) then source + matches regex + domain|domain
 
-5. test
 
 For power users they can try using [Simo Ahava's spam filter insertion tool](http://www.simoahava.com/analytics/spam-filter-insertion-tool/)
