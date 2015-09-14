@@ -25,6 +25,7 @@ Here is how to do it.
 3. Filter > sessions > exclude > Medium + exactly matches + referral - AND - Source - matches regex > spamreferralwebsite.com|spamreferralwebsite.com
 
 4. Limit domain listing to 4 before creating a new (or) then source + matches regex + domain|domain
+
 5. test
 
 For power users they can try using [Simo Ahava's spam filter insertion tool](http://www.simoahava.com/analytics/spam-filter-insertion-tool/)
