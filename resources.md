@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /res/
+permalink: /resources
 ---
 
 Here are some resources I have found useful in my SEO education
