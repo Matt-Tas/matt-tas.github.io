@@ -16,7 +16,8 @@ A good way that most people can block spam referrals is by using a Segment.
 
 [Analytics edge post on creating a filtered segment](http://www.analyticsedge.com/2015/01/advanced-segment-eliminate-spam-referrals/)
 
-The rough guide: 
+The rough guide:
+
 1. Create a new segment named *company name* Referral Filter
 2. Filter > sessions > include > Hostname + matches regex + "companywebsite.com.au"
 3. Filter > sessions > exclude > Medium + exactly matches + referral - AND - Source - matches regex > spamreferralwebsite.com|spamreferralwebsite.com
